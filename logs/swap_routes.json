@@ -1,0 +1,3359 @@
+[
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:20:39.253Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:21:44.907Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:22:44.782Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:23:44.770Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:24:44.687Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:27:17.070Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:34:12.873Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:35:18.555Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:36:24.862Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:37:30.234Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:38:30.289Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:42:48.785Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:48:30.586Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004961
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58902583.507827
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001829
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T12:51:10.314Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004956
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58843282.116623
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001827
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:00:49.302Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004956
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58843282.116623
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001827
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.998985
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044736
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:01:55.153Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.121376
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004956
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58843282.116623
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044744
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:02:54.930Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004956
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58843282.116623
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044744
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:03:55.102Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004956
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58843282.116623
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044744
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:04:54.909Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:11:50.980Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:12:21.988Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:13:27.727Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:14:27.584Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:15:28.266Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:16:28.735Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:17:27.459Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:18:28.614Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:19:27.457Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:19:27.457Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:19:27.457Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:19:27.457Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:19:27.457Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:19:27.457Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:19:27.457Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:19:27.457Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:20:28.574Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000223
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004966
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 59151313.694443
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001832
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:21:27.814Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004939
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58827794.747075
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:22:28.101Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004939
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58827794.747075
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:23:27.700Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004939
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58827794.747075
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:24:27.262Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004939
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58827794.747075
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:25:27.808Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004939
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58827794.747075
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:26:29.544Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004939
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58827794.747075
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:27:28.109Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "ETH",
+    "to": "USDC",
+    "path": [
+      "ETH",
+      "USDC"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "ETH",
+    "to": "DAI",
+    "path": [
+      "ETH",
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.000222
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "ETH",
+    "to": "LINK",
+    "path": [
+      "ETH",
+      "LINK"
+    ],
+    "output": 0.004939
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "ETH",
+    "to": "WBTC",
+    "path": [
+      "ETH",
+      "WBTC"
+    ],
+    "output": 58827794.747075
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "ETH",
+    "to": "UNI",
+    "path": [
+      "ETH",
+      "UNI"
+    ],
+    "output": 0.001822
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "USDC",
+    "to": "DAI",
+    "path": [
+      "USDC",
+      "DAI"
+    ],
+    "output": 0.999152
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "LINK",
+    "to": "DAI",
+    "path": [
+      "LINK",
+      "DAI"
+    ],
+    "output": 0.044888
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "WBTC",
+    "to": "DAI",
+    "path": [
+      "WBTC",
+      "DAI"
+    ],
+    "output": 0
+  },
+  {
+    "timestamp": "2025-10-03T13:28:27.593Z",
+    "from": "UNI",
+    "to": "DAI",
+    "path": [
+      "UNI",
+      "DAI"
+    ],
+    "output": 0.12169
+  }
+]
